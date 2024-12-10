@@ -1,10 +1,10 @@
-.. Wfrt Deom documentation master file, created by
-   sphinx-quickstart on Thu Jul 21 14:07:04 2022.
+.. test documentation master file, created by
+   sphinx-quickstart on Tue Dec 10 12:42:16 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Wfrt Deom's documentation!
-=====================================
+Welcome to test's documentation!
+================================
 
 .. toctree::
    :maxdepth: 2
